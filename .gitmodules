@@ -1,0 +1,3 @@
+[submodule "MPU6050-Simulation"]
+	path = MPU6050-Simulation
+	url = https://github.com/abdosn/MPU6050-Simulation.git
